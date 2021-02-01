@@ -1,0 +1,23 @@
+{
+    "production": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-liggersball-production-10414-authRole",
+            "UnauthRoleArn": "arn:aws:iam::206492066979:role/amplify-liggersball-production-10414-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::206492066979:role/amplify-liggersball-production-10414-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-liggersball-production-10414-deployment",
+            "UnauthRoleName": "amplify-liggersball-production-10414-unauthRole",
+            "StackName": "amplify-liggersball-production-10414",
+            "StackId": "arn:aws:cloudformation:eu-west-1:206492066979:stack/amplify-liggersball-production-10414/3ce77ad0-3f32-11eb-9cb6-02c4fae2d862",
+            "AmplifyAppId": "d3bwreovmk99pz"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3bwreovmk99pz",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
