@@ -7,3 +7,5 @@ https://www.theliggersball.live/
 
 The Livestream for 2020 is located here
 https://www.youtube.com/watch?v=gl_A75bg-WQ&feature=youtu.be
+
+Website was designed on an extremely tight turnaround so some features are missing, such as the intended Javascript Gallery. Functionality will likely be included for the next years event promotional run-up
