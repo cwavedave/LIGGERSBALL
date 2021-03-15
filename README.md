@@ -1,6 +1,4 @@
 # Liggers Ball 
---------------------------
-
 <h2> About </h2>
 This is a pro bono website designed and developed for a business raising funds to support musicians in Northern Ireland, specifically during the Coronavirus. 
 
